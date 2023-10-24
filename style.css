@@ -1,0 +1,46 @@
+/* Universal Selector */
+/* *{
+    color: red;
+} */
+/* Type Selector */
+/* Single */
+/* h1,{
+    color: aqua;
+} */
+/* multiple */
+/* h1,span,p {
+    color: aqua;
+} */
+/* class Selector */
+/* .head{
+    color: aqua;
+} */
+/* Id selector */
+/* #speak{
+    color: aqua;
+} */
+/* Child Selector */
+/* div>p{
+color: aqua;
+}
+span>p{
+    color: red;
+} */
+/* Decender Selector */
+/* div p{
+    color: blue;
+} */
+/* Adjacent Sibling Selector */
+/* h1+p{
+    color: red;
+}
+p+span{
+    color: blue;
+} */
+/* General Sibling Selector */
+/* h1>p{
+    color: red;
+}
+div>p{
+    color: yellowgreen;
+} */
